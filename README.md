@@ -1,6 +1,6 @@
-# my-swiper
+# my-collection
 
-> my-swiper
+> my-collection
 
 ## Build Setup
 
