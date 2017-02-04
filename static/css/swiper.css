@@ -1,0 +1,19 @@
+.slider_item a .essence,.listCon li .essence{background: url(http://zhongce.sina.cn/staticzcwap/images/new_tags.png) no-repeat;background-size: 50px 150px;}
+/*wap聚合页*/
+.sliderwrap{width:100%;position: relative;overflow: hidden;max-width: 414px;margin:0 auto;}
+.swiper-wrapper{width: 100%;height: 100%;}
+.slider_item{float: left; width: 100%; height: 100%; -webkit-transform:translate3d(0,0,0);/*for ipad*/}
+.slider_item a{width: 100%;display: block;float: left;height: 100%;}
+.slider_item a img{display:block;width: 100%;height: 100%;}
+.slider_item a .kind{display: block;width: 47px;line-height: 22px;text-align: center;position: absolute;top: 0;left:0;font-size:14px;color: #fff;}
+.slider_item a .kind1{background: #fd5c5f;}
+.slider_item a .kind2{background: #68c88a;}
+.slider_item a .kind3{background: #4d97c5;}
+.slider_item a .mask{display:block;width: 100%;height: 40px;overflow: hidden;position: absolute;bottom: 0;left: 0;background: rgba(0,0,0,.6);}
+.slider_item a .essence{display:block;line-height: 40px;overflow: hidden;font-size: 12px;color: #fff;position: absolute;bottom: 0;left: 0;padding-left: 65px;}
+.slider_item a .essence1{background-position:12px -68px;}
+.slider_item a .essence2{background-position:12px -118px;}
+.slider_item a .noessence{padding-left:13px;}
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction{height: 8px; position: absolute;bottom: 46px;left: 0;text-align: center;width: 100%;font-size: 0px;z-index: 100;}
+.swiper-pagination-bullet{width: 8px;height: 8px;background: #e3e1e1;}
+.swiper-pagination-bullet-active{background: #fff;}
